@@ -121,8 +121,9 @@
      <span>Sqlite3 - Intermediário</span>
   </div>
 
-
-<h3> Versionamento:</h3>
+  </br>
+  
+  <h3> 🔀 Versionamento:</h3>
   <div style="display: flex; align-items: center;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
      <img width="12" />
