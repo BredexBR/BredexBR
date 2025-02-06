@@ -68,6 +68,10 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
      <img width="12" />
      <span>Next.js - Básico</span>
+     </br>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+     <img width="12" />
+     <span>Bootstrap - Básico</span>
   </div>
 
   </br>
@@ -111,6 +115,44 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
      <img width="12" />
      <span>PostgreSql - Intermediário</span>
+     </br>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+     <img width="12" />
+     <span>Sqlite3 - Intermediário</span>
+  </div>
+
+
+<h3> Versionamento:</h3>
+  <div style="display: flex; align-items: center;">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+     <img width="12" />
+     <span>Git - Intermediário</span>
+     </br>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+     <img width="12" />
+     <span>Github - Intermediário</span>
+  </div>
+
+  </br>
+
+<h3> 💻 IDE's:</h3>
+  <div style="display: flex; align-items: center;">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+     <img width="12" />
+     <span>Visual Studio Code</span>
+     </br>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+     <img width="12" />
+     <span>Intellij</span>
+  </div>
+  
+  </br>
+  
+  <h3>🗂️ Gerenciamento de Projetos e Ferramentas de Colaboração</h3>
+  <div style="display: flex; align-items: center;">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+     <img width="12" />
+     <span>Jyra</span>
   </div>
 </div>
 
