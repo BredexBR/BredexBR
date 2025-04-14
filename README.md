@@ -22,11 +22,11 @@
   <div style="display: flex; align-items: center;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
      <img width="12" />
-     <span>Java - Avançado</span> 
+     <span>Java - Intermediário</span> 
      </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
      <img width="12" />
-     <span>Python - Avançado</span>
+     <span>Python - Intermediário</span>
      </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin-right: 10px;" />
      <img width="12" />
