@@ -1,5 +1,13 @@
 <h1 align="left">Olá 👋! Meu nome é Breno Ferreira e seja bem-vindo ao meu perfil!</h1>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=BredexBR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BredexBR&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+</div>
+
+###
+
 <h2>🎓 Formação acadêmica:</h2>
 
 • Cursando Graduação em Análise e Desenvolvimento de Sistemas(ADS) - Faculdade Impacta - Ano de previsão de término: 2026
@@ -8,10 +16,10 @@
 
 ###
 
+<h2>🏆 Certificados:</h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BredexBR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BredexBR&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+   
+   [![Google Drive](https://img.shields.io/badge/Google%20Drive-FFD700?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/16LCp8xiVEg0QyVb0bbLb1LffYjQ8H4tV?usp=drive_link)
 </div>
 
 ###
@@ -113,19 +121,11 @@
   
   </br>
   
-  <h3>🗂️ Gerenciamento de Projetos e Ferramentas de Colaboração</h3>
+  <h3>🗂️ Gerenciamento de Projetos e Ferramentas de Colaboração:</h3>
   <div style="display: flex; align-items: center;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
      <img width="12" />
   </div>
-</div>
-
-###
-
-<h2>🏆 Certificados:</h2>
-<div align="left">
-   
-   [![Google Drive](https://img.shields.io/badge/Google%20Drive-FFD700?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/16LCp8xiVEg0QyVb0bbLb1LffYjQ8H4tV?usp=drive_link)
 </div>
 
 ###
