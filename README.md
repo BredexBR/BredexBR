@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <h2> 📃 Conhecimentos e Competências:</h2>
+  <h2> 📃 Conhecimentos:</h2>
   <h3> 💻 Linguagens de Programação:</h3>
   <div style="display: flex; align-items: center;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -97,11 +97,8 @@
   <div style="display: flex; align-items: center;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
      <img width="12" />
-     <span>Git - Intermediário</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
      <img width="12" />
-     <span>Github - Intermediário</span>
   </div>
 
   </br>
@@ -110,11 +107,8 @@
   <div style="display: flex; align-items: center;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
      <img width="12" />
-     <span>Visual Studio Code</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
      <img width="12" />
-     <span>Intellij</span>
   </div>
   
   </br>
@@ -123,17 +117,25 @@
   <div style="display: flex; align-items: center;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
      <img width="12" />
-     <span>Jyra</span>
   </div>
 </div>
 
 ###
 
-<h2>📱 Caso queira fazer networking:</h2>
+<h2>🏆 Certificados:</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/breno-gomes-639096240/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+   
+   [![Google Drive](https://img.shields.io/badge/Google%20Drive-FFD700?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/16LCp8xiVEg0QyVb0bbLb1LffYjQ8H4tV?usp=drive_link)
+</div>
+
+###
+
+<h2>📱 Networking:</h2>
+<div align="left">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-gomes-639096240/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BredexBR)
+  [![DIO](https://img.shields.io/badge/DIO-FFA500?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/breno_ferreira_bre2)
 </div>
 
 ###
