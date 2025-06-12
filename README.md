@@ -22,31 +22,16 @@
   <div style="display: flex; align-items: center;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
      <img width="12" />
-     <span>Java - Intermediário</span> 
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
      <img width="12" />
-     <span>Python - Intermediário</span>
-     </br>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin-right: 10px;" />
-     <img width="12" />
-     <span>JavaScript - Intermediário</span>    
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
      <img width="12" />
-     <span>PHP - Intermediário</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
      <img width="12" />
-     <span>TypeScript - Básico</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
      <img width="12" />
-     <span>C# - Básico</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
      <img width="12" />
-     <span>Go - Básico</span>
   </div>
 
   </br>
@@ -55,23 +40,16 @@
   <div style="display: flex; align-items: center;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
      <img width="12" />
-     <span>React - Básico</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
      <img width="12" />
-     <span>Django - Básico</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
      <img width="12" />
-     <span>Node.js - Básico</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
      <img width="12" />
-     <span>Next.js - Básico</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
      <img width="12" />
-     <span>Bootstrap - Básico</span>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+     <img width="12" />
   </div>
 
   </br>
@@ -80,11 +58,10 @@
   <div style="display: flex; align-items: center;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
      <img width="12" />
-     <span>Html5 - Intermediário</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
      <img width="12" />
-     <span>CSS3 - Intermediário</span>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin-right: 10px;" />
+     <img width="12" />
   </div>
 
   </br>
@@ -93,15 +70,11 @@
   <div style="display: flex; align-items: center;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
      <img width="12" />
-     <span>Unity - Intermediário</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
      <img width="12" />
-     <span>Linux - Intermediário</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-     <img width="12" /> 
-     <span>Docker - Básico</span>
+     <img width="12" />
+     <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" height="30" alt="Postman logo"  />
   </div>
   
   </br>
@@ -110,15 +83,12 @@
   <div style="display: flex; align-items: center;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
      <img width="12" />
-     <span>MySql - Intermediário</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
      <img width="12" />
-     <span>PostgreSql - Intermediário</span>
-     </br>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
      <img width="12" />
-     <span>Sqlite3 - Intermediário</span>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+     <img width="12" />
   </div>
 
   </br>
@@ -167,3 +137,9 @@
 </div>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BredexBR/BredexBR/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BredexBR/BredexBR/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BredexBR/BredexBR/output/pacman-contribution-graph.svg">
+</picture>
