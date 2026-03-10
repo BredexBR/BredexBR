@@ -1,12 +1,85 @@
-<h1 align="left">Olá 👋! Meu nome é Breno Ferreira e seja bem-vindo ao meu perfil!</h1>
+<h1 align="left">Olá 👋! Eu sou o Breno Ferreira</h1>
+
+🚀 Backend Developer | Java | Spring Boot | REST APIs
+
+💻 Desenvolvedor **Backend Java** com experiência no desenvolvimento de **APIs REST utilizando Spring Boot**, integrações com sistemas fiscais brasileiros (NF-e, MDF-e e SPED REINF) e manutenção de sistemas ERP.
+
+Tenho experiência com **Java, PHP, APIs REST, WebServices SOAP e bancos de dados relacionais**, além de projetos pessoais focados em **boas práticas REST, arquitetura em camadas e testes automatizados**.
+
+🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas na Faculdade Impacta** (previsão de conclusão em 2026).
+
+## 🚀 Projetos em Destaque
+
+### 🏥 GestCare – Sistema de Gestão de Documentos Médicos
+
+Sistema web full stack para gerenciamento de documentos médicos pessoais.
+
+Arquitetura em camadas utilizando **Spring Boot + JPA/Hibernate (ORM)** para persistência de dados e geração automática do banco.
+
+Tecnologias:  
+Java • Spring Boot • JPA • Hibernate • MySQL • HTML • CSS • JavaScript
+
+🔗 https://github.com/Elysion-Sphere/GestCare
+
+---
+
+### 📚 API RESTful com Spring Boot
+
+Projeto focado na implementação de **APIs RESTful seguindo princípios do Glory of REST**, incluindo:
+
+• HATEOAS  
+• Content Negotiation (JSON, XML, YAML)  
+• Testes unitários e de integração  
+• Versionamento de banco com Flyway
+
+Tecnologias:  
+Java • Spring Boot • Flyway • JUnit • Mockito • RestAssured • Swagger
+
+🔗 https://github.com/BredexBR/javaSpringBootErudio2025
+
+## 🛠️ Tecnologias
+
+### 🔬 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![SOAP](https://img.shields.io/badge/SOAP-FF6C37?style=for-the-badge)
+
+### 📊 Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### 🧪 Testes 
+
+![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-7A4B94?style=for-the-badge)
+![RestAssured](https://img.shields.io/badge/RestAssured-009688?style=for-the-badge)
+
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 📐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ###
 
-<h2>🎓 Formação acadêmica:</h2>
+## 🎓 Formação
 
-• Cursando Graduação em Análise e Desenvolvimento de Sistemas(ADS) - Faculdade Impacta - Ano de previsão de término: 2026
+• Análise e Desenvolvimento de Sistemas – Faculdade Impacta  
+Previsão de conclusão: 2026
 
-• Formado no Ensino médio integrado ao Técnico em Informática - Instituto Federal de Educação, ciências e Tecnologia de São Paulo - IFSP - SP (2018 à 2021)
+• Técnico em Informática – Instituto Federal de São Paulo (IFSP)  
+2018 – 2021
 
 ###
 
@@ -14,112 +87,6 @@
 <div align="left">
    
    [![Google Drive](https://img.shields.io/badge/Google%20Drive-FFD700?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/16LCp8xiVEg0QyVb0bbLb1LffYjQ8H4tV?usp=drive_link)
-</div>
-
-###
-
-<div align="left">
-  <h2> 📃 Conhecimentos:</h2>
-  <h3> 💻 Linguagens de Programação:</h3>
-  <div style="display: flex; align-items: center;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-     <img width="12" />
-  </div>
-
-  </br>
-  
-  <h3> 📚 Frameworks e Bibliotecas:</h3>
-  <div style="display: flex; align-items: center;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-     <img width="12" />
-  </div>
-
-  </br>
-  
-  <h3> 📐 Marcação e Estilização:</h3>
-  <div style="display: flex; align-items: center;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin-right: 10px;" />
-     <img width="12" />
-  </div>
-
-  </br>
-
-  <h3> 🔧 Plataformas e Ferramentas:</h3>
-  <div style="display: flex; align-items: center;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-     <img width="12" />
-     <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" height="30" alt="Postman logo"  />
-  </div>
-  
-  </br>
-  
-  <h3> 📊 Bancos de Dados:</h3>
-  <div style="display: flex; align-items: center;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-     <img width="12" />
-  </div>
-
-  </br>
-  
-  <h3> 🔀 Versionamento:</h3>
-  <div style="display: flex; align-items: center;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-     <img width="12" />
-  </div>
-
-  </br>
-
-<h3> 💻 IDE's:</h3>
-  <div style="display: flex; align-items: center;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-     <img width="12" />
-  </div>
-  
-  </br>
-  
-  <h3>🗂️ Gerenciamento de Projetos e Ferramentas de Colaboração:</h3>
-  <div style="display: flex; align-items: center;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-     <img width="12" />
-  </div>
 </div>
 
 ###
@@ -133,6 +100,10 @@
 </div>
 
 ###
+
+## 📊 Estatísticas do GitHub
+![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BredexBR&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BredexBR&layout=compact&hide=jupyter%20notebook,blade,css,html)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BredexBR/BredexBR/output/pacman-contribution-graph-dark.svg">
