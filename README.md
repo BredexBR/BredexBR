@@ -102,8 +102,10 @@ Previsão de conclusão: 2026
 ###
 
 ## 📊 Estatísticas do GitHub
-![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BredexBR&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BredexBR&layout=compact&hide=jupyter%20notebook,blade,css,html)
+<p align="left">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BredexBR&show_icons=true&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BredexBR&layout=compact&theme=tokyonight&hide=jupyter%20notebook,blade,css,html,c%23,go&cache_seconds=1"/>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BredexBR/BredexBR/output/pacman-contribution-graph-dark.svg">
