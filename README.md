@@ -42,8 +42,16 @@ Java • Spring Boot • Flyway • JUnit • Mockito • RestAssured • Swagge
 ### 🔬 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring AMQP](https://img.shields.io/badge/Spring_AMQP-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![SOAP](https://img.shields.io/badge/SOAP-FF6C37?style=for-the-badge)
+
+---
+
+### ⚡ Mensageria & Arquitetura Assíncrona
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
 
 ### 📊 Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -52,11 +60,27 @@ Java • Spring Boot • Flyway • JUnit • Mockito • RestAssured • Swagge
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### 🧪 Testes 
+---
 
+### 🧪 Testes 
 ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-7A4B94?style=for-the-badge)
 ![RestAssured](https://img.shields.io/badge/RestAssured-009688?style=for-the-badge)
+
+---
+
+### 🐳 Containerização & Ambiente
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge)
+![ECR](https://img.shields.io/badge/AWS_ECR-569A31?style=for-the-badge)
+
+---
 
 ### 🔧 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,13 +89,13 @@ Java • Spring Boot • Flyway • JUnit • Mockito • RestAssured • Swagge
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
+
 ### 📐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-###
 
 ## 🎓 Formação
 
